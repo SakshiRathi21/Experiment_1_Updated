@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "To create an html file by applying the different styles using inline, external & internal style sheets",
+			"Lab": "Web Designing Lab",
+			"Discipline": "Information Technology",
+			"Technology": "Web Designing"
+       }
+   ],
+
+   "developer": [
+       {
+      "Developer": "Dr. Sakshi Rathi",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+      "InstituteAcronym": "KIET"
+       }
+   ],
+
+   "contributer": [
+       {
+			"Contributer": "Parth Dogra",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       },
+
+       {
+			"Contributer": "Nandini Jairath",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       },
+
+       {
+			"Contributer": "Shreya Asthana",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       },
+
+       {
+			"Contributer": "Shuvam Gupta",
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",
+			"InstituteAcronym": "KIET"
+       }
+   ]
+
+}
